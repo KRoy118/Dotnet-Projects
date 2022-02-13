@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\K Roy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\MaxBankBalanceAcc_getter_setter_\\MaxBankBalanceAcc_getter_setter_.csproj",
+      "projectName": "MaxBankBalanceAcc_getter_setter_",
+      "projectPath": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\MaxBankBalanceAcc_getter_setter_\\MaxBankBalanceAcc_getter_setter_.csproj",
+      "packagesPath": "C:\\Users\\K Roy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\MaxBankBalanceAcc_getter_setter_\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\K Roy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

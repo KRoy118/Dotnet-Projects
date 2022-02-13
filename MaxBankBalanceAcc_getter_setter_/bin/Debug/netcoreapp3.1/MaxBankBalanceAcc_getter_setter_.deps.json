@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaxBankBalanceAcc_getter_setter_/1.0.0": {
+        "runtime": {
+          "MaxBankBalanceAcc_getter_setter_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxBankBalanceAcc_getter_setter_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
