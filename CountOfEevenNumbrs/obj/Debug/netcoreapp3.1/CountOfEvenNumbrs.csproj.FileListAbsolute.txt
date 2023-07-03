@@ -11,3 +11,17 @@ C:\Users\K Roy\OneDrive\Documents\Github Repo\Dotnet Projects\CountOfEevenNumbrs
 C:\Users\K Roy\OneDrive\Documents\Github Repo\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.dll
 C:\Users\K Roy\OneDrive\Documents\Github Repo\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.pdb
 C:\Users\K Roy\OneDrive\Documents\Github Repo\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.genruntimeconfig.cache
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.exe
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.deps.json
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.runtimeconfig.json
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.runtimeconfig.dev.json
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.dll
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\bin\Debug\netcoreapp3.1\CountOfEvenNumbrs.pdb
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.csproj.AssemblyReference.cache
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.AssemblyInfoInputs.cache
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.AssemblyInfo.cs
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.csproj.CoreCompileInputs.cache
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.dll
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.pdb
+c:\Users\katha\Documents\source\repos\Github Repo\VS Code\Dotnet Projects\CountOfEevenNumbrs\obj\Debug\netcoreapp3.1\CountOfEvenNumbrs.genruntimeconfig.cache

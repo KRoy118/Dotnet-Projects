@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VBN10fFrA2GSMZmSEk9P6AF9jeuC3eMWnHs5oVSaZTxbXJA+4HhrdBgAjbAuOk/Ml6iXXUgI+lS4HmXoRzuJUw==",
+  "dgSpecHash": "Stg3poUsTJ03E+VANmpY6G4XvEb+ZsNl87PJzzQqQadfsI0Wu09WZoVsafYdnpzcelzGyCj5debMkGVxfWsO3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\katha\\Documents\\source\\repos\\Github Repo\\VS Code\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

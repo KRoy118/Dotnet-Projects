@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\K Roy\\.nuget\\packages\\": {}
+    "C:\\Users\\katha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
+      "projectUniqueName": "c:\\Users\\katha\\Documents\\source\\repos\\Github Repo\\VS Code\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
       "projectName": "CountOfEvenNumbrs",
-      "projectPath": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
-      "packagesPath": "C:\\Users\\K Roy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K Roy\\OneDrive\\Documents\\Github Repo\\Dotnet Projects\\CountOfEevenNumbrs\\obj\\",
+      "projectPath": "c:\\Users\\katha\\Documents\\source\\repos\\Github Repo\\VS Code\\Dotnet Projects\\CountOfEevenNumbrs\\CountOfEvenNumbrs.csproj",
+      "packagesPath": "C:\\Users\\katha\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\katha\\Documents\\source\\repos\\Github Repo\\VS Code\\Dotnet Projects\\CountOfEevenNumbrs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\K Roy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\katha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,22 +42,30 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
